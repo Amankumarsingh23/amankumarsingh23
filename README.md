@@ -131,7 +131,28 @@ Since you’ve scrolled this far, here’s what you can do next:
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="45" alt="wave">
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=I'm+Aman+Kumar+Singh;Developer+%7C+Tech+Enthusiast;Building+Elite+Versions+of+Myself;Welcome+to+My+Github+Profile">
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" allowFullScreen></img>
+</p>
+
+<hr>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amankumarsingh23" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/amankumarsingh23?style=social" />
+</p>
+
+<br>
+
+
+
 ---
+
 
 ## ⚡ About Me  
 💡 AI/ML Developer obsessed with **Algorithms, Automation, and Building Things That Matter**  
@@ -156,6 +177,16 @@ Since you’ve scrolled this far, here’s what you can do next:
 `Excel` • `PowerPoint` • `Tableau`
 
 ---
+
+
+# 🔥 Github Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amankumarsingh23&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<br>
+
 
 ## ⚙️ GitHub Analytics  
 
