@@ -132,7 +132,7 @@ Since you’ve scrolled this far, here’s what you can do next:
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=I'm+Aman+Kumar+Singh;Developer+%7C+Tech+Enthusiast;Building+Elite+Versions+of+Myself;Welcome+to+My+Github+Profile">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=I'm+Aman+Kumar+Singh;Developer+%7C+Tech+Enthusiast;Building+Best+Versions+of+Myself;Welcome+to+My+Github+Profile">
 </p>
 
 <p align="center">
@@ -191,12 +191,10 @@ Since you’ve scrolled this far, here’s what you can do next:
 ## ⚙️ GitHub Analytics  
 
 <p align="center">
-  <!-- GitHub stats (uses your username) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amankumarsingh23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsingh23&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amankumarsingh23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amankumarsingh23&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
----
 
 ## 📰 My Articles  
 <p align="center">
