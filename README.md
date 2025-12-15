@@ -196,6 +196,11 @@ Since you’ve scrolled this far, here’s what you can do next:
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amankumarsingh23&show_icons=true&theme=black-ice&hide_border=true" />
+</p>
+
+
 
 ## ⚙️ GitHub Analytics  
 
