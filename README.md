@@ -179,13 +179,22 @@ Since you’ve scrolled this far, here’s what you can do next:
 ---
 
 
-# 🔥 Github Contribution Streak
+<!-- # 🔥 Github Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amankumarsingh23&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-<br>
+<br> -->
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=amankumarsingh23&theme=black-ice&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+
 
 
 ## ⚙️ GitHub Analytics  
