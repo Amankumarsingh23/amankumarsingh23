@@ -47,15 +47,7 @@
 
 ---
 
-## 🚀 Featured Projects  
 
-<!-- Replace REPO_NAME with your actual repositories -->
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amankumarsingh23&repo=HuffCompress&theme=radical)](https://github.com/amankumarsingh23/REPO_NAME)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amankumarsingh23&repo=mini-Git-Hub&theme=radical)](https://github.com/amankumarsingh23/REPO_NAME)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amankumarsingh23&repo=leetcode-daily-solutions&theme=radical)](https://github.com/amankumarsingh23/REPO_NAME)
-
----
 
 ## 📊 GitHub Analytics  
 
@@ -82,6 +74,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amankumarsingh23&theme=monokai" />
+</p>
+
 ---
 
 ## 📊 GitHub Activity Graph  
@@ -90,13 +86,7 @@
 
 ---
 
-## 🏆 GitHub Achievements  
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amankumarsingh23&theme=darkhub&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
 
 ## 📰 My Articles  
 <p align="center">
@@ -145,3 +135,12 @@
 </p>
 
 <h2 align="center">Thank You for Visiting 🚀</h2>
+
+
+
+
+
+
+
+
+
