@@ -5,32 +5,27 @@ on:
     - cron: "0 18 * * *"   # Daily at 6pm UTC
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      # ✅ Updated checkout (Node 24 safe)
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # ✅ Generate 3D contribution graph (latest)
-      - name: Generate 3D graph
-        uses: yoshi389111/github-profile-3d-contrib@main
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: amankumarsingh23
           SETTING_JSON: '{"fileName":"profile-3d-contrib/profile-night-rainbow.svg","githubActivityType":"all"}'
 
-      # ✅ Commit changes safely
-      - name: Commit & Push changes
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "update 3D contribution graph"
+          git diff --staged --quiet || git commit -m "chore: update 3D contribution graph"
           git push
-
-      # ✅ Force Node 24 compatibility (IMPORTANT FIX)
-      - name: Force Node 24
-        run: echo "FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true" >> $GITHUB_ENV
