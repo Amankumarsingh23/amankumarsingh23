@@ -107,10 +107,10 @@ aman = {
 ## 🌐 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/profile-night-rainbow.svg" />
 </p>
 
-> **Setup:** Add [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) Action to generate this nightly.
+
 
 
 
