@@ -10,9 +10,8 @@ permissions:
 
 jobs:
   play:
-    # Only run for issues labelled 'tictactoe'
-    if: contains(github.event.issue.labels.*.name, 'tictactoe')
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -27,6 +26,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
         run: python tictactoe.py
 
       - name: Commit updated board
@@ -37,6 +37,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "game: update tic-tac-toe board [skip ci]"
+            git commit -m "game: update tic-tac-toe board"
             git push
           fi
