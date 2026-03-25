@@ -145,16 +145,15 @@ aman = {
 
 ### Make Your Move
 
+<!--START_SECTION:tictactoe-->
 |   | 1 | 2 | 3 |
 |---|---|---|---|
 | A | [A1](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CA1) | [A2](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CA2) | [A3](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CA3) |
 | B | [B1](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CB1) | [B2](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CB2) | [B3](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CB3) |
 | C | [C1](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CC1) | [C2](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CC2) | [C3](https://github.com/amankumarsingh23/amankumarsingh23/issues/new?title=tictactoe%7CC3) |
+<!--END_SECTION:tictactoe-->
 
-
-<p align="center"><i>Powered by GitHub Issues + Actions. See <a href=".github/workflows/tictactoe.yml">tictactoe.yml</a></i></p>
-
----
+<p align="center"><i>Powered by GitHub Issues + Actions.</i></p>
 
 ## 📰 Latest from Medium
 
