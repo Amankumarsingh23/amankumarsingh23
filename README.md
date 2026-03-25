@@ -37,16 +37,8 @@ aman = {
 }
 ```
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amankumarsingh23&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-</p>
 
 ---
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -127,7 +119,44 @@ aman = {
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarsingh23&theme=tokyo-night&hide_border=true&area=true&area_color=00EAFF&line=00EAFF&point=ffffff)](https://github.com/amankumarsingh23)
 
 ---
+---
 
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/amankumarsingh23/HuffCompress">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankumarsingh23&repo=HuffCompress&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/amankumarsingh23/mini-Git-Hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankumarsingh23&repo=mini-Git-Hub&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amankumarsingh23/deep-latent-alpha-inference">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankumarsingh23&repo=deep-latent-alpha-inference&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/amankumarsingh23/distributed-financial-data-mesh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankumarsingh23&repo=distributed-financial-data-mesh&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amankumarsingh23/hpc-stochastic-pricing-kernel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankumarsingh23&repo=hpc-stochastic-pricing-kernel&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+
+---
 ## 🐍 Contribution Snake
 
 
