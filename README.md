@@ -151,7 +151,7 @@ aman = {
 ## 📰 Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Auto-updated by blog-post-workflow — see .github/workflows/blog-posts.yml -->
+- [What Is Natural Language Processing &lpar;NLP&rpar;? A Beginner-Friendly Introduction](https://medium.com/@logiclord67/what-is-natural-language-processing-nlp-a-beginner-friendly-introduction-d6bca408dd34?source=rss-0f8797a346f3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
