@@ -10,7 +10,6 @@ move = ISSUE_TITLE.split("|")[1].strip().upper()
 
 board_file = ".tictactoe_state"
 
-# create board if not exists
 if not os.path.exists(board_file):
     with open(board_file, "w") as f:
         f.write("---------")
@@ -35,22 +34,19 @@ if board[idx] == "-":
 with open(board_file, "w") as f:
     f.write("".join(board))
 
-# update README
-with open("README.md", "r") as f:
-    content = f.read()
-
-new_board = f"""
-<!-- tictactoe starts -->
+new_board = f"""<!--START_SECTION:tictactoe-->
 |   | 1 | 2 | 3 |
 |---|---|---|---|
 | A | {board[0]} | {board[1]} | {board[2]} |
 | B | {board[3]} | {board[4]} | {board[5]} |
 | C | {board[6]} | {board[7]} | {board[8]} |
-<!-- tictactoe ends -->
-"""
+<!--END_SECTION:tictactoe-->"""
+
+with open("README.md", "r") as f:
+    content = f.read()
 
 content = re.sub(
-    r"<!-- tictactoe starts -->.*?<!-- tictactoe ends -->",
+    r"<!--START_SECTION:tictactoe-->.*?<!--END_SECTION:tictactoe-->",
     new_board,
     content,
     flags=re.DOTALL
