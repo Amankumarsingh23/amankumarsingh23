@@ -2,7 +2,7 @@ name: 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # Daily at 6pm UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - uses: actions/checkout@v5
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.9.1
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate 3D Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: amankumarsingh23
-          SETTING_JSON: '{"fileName":"profile-3d-contrib/profile-night-rainbow.svg","githubActivityType":"all"}'
 
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --staged --quiet || git commit -m "chore: update 3D contribution graph"
-          git push
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./profile-3d-contrib
+          publish_branch: output
