@@ -107,10 +107,10 @@ aman = {
 
 
 
-## 👾 Space Invader
+## 🚀 My GitHub Space Shooter
 
 <p align="center">
-  <img src="https://github.com/Amankumarsingh23/amankumarsingh23/blob/main/amankumarsingh23-contributions%20(5).gif" alt="Space Invader Contribution Animation" />
+  <img src="https://raw.githubusercontent.com/Amankumarsingh23/Amankumarsingh23/main/game.gif" />
 </p>
 
 
