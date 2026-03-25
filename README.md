@@ -122,13 +122,18 @@ aman = {
 
 ## 🐍 Contribution Snake
 
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/space-invaders-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/space-invaders.svg" />
+    <img alt="space invaders contribution graph"
+         src="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/space-invaders-dark.svg" />
   </picture>
 </p>
+
 
 ---
 
