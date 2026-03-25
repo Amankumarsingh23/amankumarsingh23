@@ -112,7 +112,15 @@ aman = {
 
 > **Setup:** Add [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) Action to generate this nightly.
 
----
+
+
+
+## 👾 Space Invader
+
+<p align="center">
+  <img src="https://github.com/Amankumarsingh23/amankumarsingh23/blob/main/amankumarsingh23-contributions%20(5).gif" alt="Space Invader Contribution Animation" />
+</p>
+
 
 ## 📊 GitHub Activity Graph
 
@@ -136,24 +144,6 @@ aman = {
 
 
 ---
-
-## 🎮 Play Tic-Tac-Toe With Me!
-
-> I'm **X** — you're **O**. Click a cell below to make your move.
-
-
-
-### Make Your Move
-
-<!--START_SECTION:tictactoe-->
-|   | 1 | 2 | 3 |
-|---|---|---|---|
-| A | O | - | O |
-| B | - | - | - |
-| C | - | - | - |
-<!--END_SECTION:tictactoe-->
-
-<p align="center"><i>Powered by GitHub Issues + Actions.</i></p>
 
 ## 📰 Latest from Medium
 
