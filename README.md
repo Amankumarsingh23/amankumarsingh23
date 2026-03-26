@@ -96,12 +96,6 @@ aman = {
 
 ---
 
-## 🌐 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amankumarsingh23/amankumarsingh23/output/profile-night-rainbow.svg" />
-</p>
-
 
 
 
