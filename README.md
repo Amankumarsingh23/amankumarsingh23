@@ -113,7 +113,7 @@ aman = {
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarsingh23&theme=tokyo-night&hide_border=true&area=true&area_color=00EAFF&line=00EAFF&point=ffffff)](https://github.com/amankumarsingh23)
 
 ---
----
+
 
 ## 🚀 Featured Projects
 
