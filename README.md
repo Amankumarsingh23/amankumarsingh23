@@ -187,7 +187,7 @@ aman = {
 
 Want to adopt a pet?
 
-→ **[Adopt here](https://github.com/Amankumarsingh23/Adopt-a-Pet-Shelter/issues/new?title=Adopt%21)**
+→ **[Adopt here](https://github.com/Amankumarsingh23/Adopt-a-Pet/issues/new?title=Adopt%21)**
 
 ---
 
