@@ -171,6 +171,7 @@ aman = {
 ## 📰 Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Operating Systems, Explained Simply — Everything You Need to Know Before Your First Interview](https://medium.com/@logiclord67/operating-systems-explained-simply-everything-you-need-to-know-before-your-first-interview-511150cca13d?source=rss-0f8797a346f3------2)
 - [I Turned My GitHub Contribution Graph into a Space Shooter — and You Can Too](https://medium.com/@logiclord67/i-turned-my-github-contribution-graph-into-a-space-shooter-and-you-can-too-69eec277a312?source=rss-0f8797a346f3------2)
 - [What Is Natural Language Processing &lpar;NLP&rpar;? A Beginner-Friendly Introduction](https://medium.com/@logiclord67/what-is-natural-language-processing-nlp-a-beginner-friendly-introduction-d6bca408dd34?source=rss-0f8797a346f3------2)
 <!-- BLOG-POST-LIST:END -->
