@@ -204,7 +204,7 @@ Want to adopt a pet?
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-kumar-a1968b293/">
+  <a href="https://www.linkedin.com/in/aman-singh-iitkanpur/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
