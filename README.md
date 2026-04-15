@@ -183,6 +183,15 @@ aman = {
 
 ---
 
+## Adopt a Pixel pet 
+
+Want to adopt a pet?
+
+→ **[Adopt here](https://github.com/Amankumarsingh23/Adopt-a-Pet-Shelter/issues/new?title=Adopt%21)**
+
+---
+
+
 ## 💭 Dev Quote of the Day
 
 <p align="center">
